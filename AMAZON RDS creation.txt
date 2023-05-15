@@ -1,0 +1,3 @@
+Create 2 instance ECuser and DBuser
+create a mysql DB instance , attached it DBuser instance
+Accessed Mysql from ECuser

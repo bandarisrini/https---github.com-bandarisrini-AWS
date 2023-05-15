@@ -1,0 +1,2 @@
+Created a instance with user ECuser and attachedm VPC and security groupt it.
+Added rules(inbound and outboud)
